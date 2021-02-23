@@ -1,6 +1,6 @@
 --------------------------------------------------
 
-# TF05-ec2-with-eip
+## TF05-ec2-with-eip
 
 Author: Frank Effrim-Botchey
 
